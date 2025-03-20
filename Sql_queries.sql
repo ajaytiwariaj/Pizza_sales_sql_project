@@ -1,5 +1,4 @@
 --To create database
-
 create database pizza_sales;
 
 
