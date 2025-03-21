@@ -10,7 +10,7 @@ This project aims to leverage SQL to analyze pizza sales data, uncovering key in
 Key Points for Using SQL to Analyze Data
 
 From data cleaning and preparation point of view ensuring proper data typea are assigned for efficient querying.
-Utilizing SQL functions like GROUP BY, ORDER BY, and HAVING for summarizing data.
+Utilizing SQL functions like GROUP BY, ORDER BY for summarizing data.
 Performing sales and revenue analysis 
 
 
